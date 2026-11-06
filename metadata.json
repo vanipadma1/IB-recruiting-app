@@ -1,0 +1,6 @@
+{
+  "name": "IB Recruiting Hub",
+  "description": "Personal investment banking recruiting CRM & operating system for college students managing networking, applications, technical prep, documents, and interview pipelines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
